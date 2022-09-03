@@ -1,2 +1,3 @@
 # Life-Expectancy-Prediction-Using-Machine-Learning
 To predict life expectancy using Machine Learning
+Each and everything we see around us has an expiration date, humans are no exception either. we also have a certain period of life span which vary from person to person on the basis of race, ethnicity, family medical history, lifestyle etc. The entire list of these kind of factors is very large which makes it very difficult to understand which factors are affecting the average life expectancy of people more severly. However, with ongoing advancements in machine learning and data science, we can do it easily and can also precisely predict the same given the essential parameters.
